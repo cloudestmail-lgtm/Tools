@@ -5,14 +5,6 @@
 
 A simple Python tool to track IP address location information using ipinfo.io. Made mainly to learn python and have fun. 
 
-## Video Showcasing the tool
-
-[![Watch the video](https://img.youtube.com/vi/hvCGNbbX4c0/maxresdefault.jpg)](https://youtu.be/hvCGNbbX4c0)
-
-### [WATCH THE VIDEO SHOWCASE](https://youtu.be/hvCGNbbX4c0)
-
-Subscribe if you want to follow me on my journey and learn along with me :)
-
 ## Features
 
 - Fetches location details for any IP address.
@@ -45,3 +37,7 @@ Run the script from the terminal:
 ```bash
 python3 ultimate_ip_locator.py
 ```
+
+# Made 
+
+Made By Me Lazar.
